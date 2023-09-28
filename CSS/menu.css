@@ -1,0 +1,58 @@
+.main-wrapper{ 
+    height: 100vh;
+}
+.section{
+    margin: 0;
+    height: 100%;  
+} 
+.logof{
+    font-weight: bold; 
+    font-size: 7em;
+}
+.menu a {
+    font-weight: 100;
+}
+
+.roundItem{
+    
+    width: 22px;
+    height: 22px; 
+    background-color: white;
+    
+    border-radius: 100%;
+    position: relative; 
+    border: 2px solid blue;
+} 
+.LineUp{
+    width: 26px;
+    height: 4px;
+    background-color: black;
+    position:absolute;
+    transform: rotate(90deg);
+    bottom: 30px;
+    left: -4px;
+}
+.year{
+    position: absolute;
+    right: 25px; 
+    font-size: 0.8em;
+}
+.timeline{
+    margin-left: Sem;
+}
+.card {
+    opacity: 0.8;
+  }
+
+#mifoto{
+    opacity: 1.0;
+}
+
+.redondo{
+    width:300px;
+    height:300px;
+    border-radius:150px;
+}
+.list-group-item{
+    opacity: 0.8;
+}
